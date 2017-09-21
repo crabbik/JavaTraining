@@ -1,23 +1,17 @@
 package taskIN;
 
+import java.util.Arrays;
+import java.util.Random;
 import java.util.Scanner;
 
-public class Task4 {
+public class Task5 {
 
 	public static void main(String[] args) {
 
-		@SuppressWarnings("resource")
+		int[][] array = new int[10][3];
 		Scanner in = new Scanner(System.in);
 		System.out.println("Введите цифру:");
-		// чтение строки из консоли
 		int v = in.nextInt();
-		int sum = 0;
-		int i = 1;
-		while (i <= v) {
-			sum += i;
-			i++;
-		}
-		System.out.println(sum);
 	}
 
 }

@@ -1,6 +1,6 @@
 package homeWork;
 
-public class task5NO {
+public class Task5NO {
 
 	public static void main(String[] args) {
 		// НЕ сделал , определить промежутки в которых меняеться падеж

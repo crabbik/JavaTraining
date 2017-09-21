@@ -1,6 +1,6 @@
 package homeWork;
 
-public class task15NO {
+public class Task15NO {
 
 	public static void main(String[] args) {
 		// Надо найти сумму между двумя элементами. где расположен мин и мах нашел

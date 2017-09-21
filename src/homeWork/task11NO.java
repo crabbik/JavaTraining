@@ -1,6 +1,6 @@
 package homeWork;
 
-public class task11NO {
+public class Task11NO {
 // ме ядекюкю!!!
 	public static void main(String[] args) {
 		//

@@ -1,6 +1,6 @@
 package homeWork;
 
-public class task17NO {
+public class Task17NO {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

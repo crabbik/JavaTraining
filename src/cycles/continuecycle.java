@@ -1,6 +1,6 @@
 package cycles;
 
-public class continuecycle {
+public class Continuecycle {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
