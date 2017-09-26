@@ -3,7 +3,7 @@ package homeWork;
 public class Task19 {
 
 	public static void main(String[] args) {
-
+// нужно посчитать слова теперь а не пробелы
 		String str = "Текстовая, строка, ! с несколькими,, запятыми.";
 		int n = 0;
 		char symbol;

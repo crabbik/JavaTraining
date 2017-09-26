@@ -18,22 +18,22 @@ public class Task6 {
 			Integer indexJ = null;
 
 			for (int i1 = 0; i1 < 10; i1++) {
-				if (check == false) 	 {
+				if (check == false) {
 					for (int j = 0; j < 15; j++)
-						if (check == false) 
-							 if  (array[i1][j] == 9) {
-							indexI = i1;
-							indexJ = j;
-							check = true;
-							break;}
-				}
-				else 
+						if (check == false)
+							if (array[i1][j] == 9) {
+								indexI = i1;
+								indexJ = j;
+								check = true;
+								break;}
+				} else
 					break;
-				
-			}
-			
-			System.out.println("Число 9 находиться в позиции : i1(строка) = " + ++indexI + ", j(столбец) = " + ++indexJ);
 
+			}
+
+			System.out.println("Число 9 находиться в позиции : i1(строка) = "
+					+ ++indexI + ", j(столбец) = " + ++indexJ);
+			// не заканчивается цикл?
 		}
 	}
 }
