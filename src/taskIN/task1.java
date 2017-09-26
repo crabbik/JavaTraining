@@ -22,7 +22,7 @@ public class Task1 {
 
 		}
 		System.out.println(Arrays.toString(array));
-		System.out.println("Число меньше единицы " + k);
+		System.out.println("Чисел меньше единицы " + k);
 	}
 
 }
