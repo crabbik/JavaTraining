@@ -5,7 +5,7 @@ public class Task10 {
 	public static void main(String[] args) {
 		//готово
 
-		int i = 1;
+		int i = 147;
 		int sum = 0;
 
 		while (i != 0) {
