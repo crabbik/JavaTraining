@@ -2,9 +2,10 @@ package pack1;
 
 public class Page {
 
+	@SuppressWarnings("unused")
 	public Page() {
 		super();
-		AbstractButton button1 = new AbstractButton() {
+		AbstractButton button1 = new AbstractButton(){
 
 			@Override
 			public void onClick() {
