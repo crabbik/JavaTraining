@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 public class Car implements Serializable {
 	 private transient String brend ;
-	 private static final long serialVersionUID =2l; 
+	 private static final long serialVersionUID =1; 
 
 	public Car(String brend) {
 		super();
