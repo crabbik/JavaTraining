@@ -1,0 +1,14 @@
+[
+  {
+    "x": 5,
+    "y": 8,
+    "unit": "cm",
+    "colored": true
+  },
+  {
+    "x": 9,
+    "y": 10,
+    "unit": "mm",
+    "colored": false
+  }
+]

@@ -23,6 +23,7 @@ public class DomParserDemo {
 		DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 		DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
 		Document doc = dBuilder.parse(inputFile);
+		@SuppressWarnings("unused")
 		Element pointNodes = doc.getDocumentElement();
 		NodeList points = doc.getElementsByTagName("point");
 		for (int i = 0; i < points.getLength(); i++) {
