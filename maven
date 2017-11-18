@@ -1,0 +1,5 @@
+Скачать maven
+Binary zip
+bin - mvn
+создать переменную m2_home, %m2_HOME%\bin
+импорт maven project
