@@ -3,7 +3,6 @@ package atm;
 public class Slot {
 
 	private int nominal;
-
 	private int quantity;
 
 	public Slot(int nominal, int quantity) {
